@@ -1,0 +1,4 @@
+repository "Spellstrike@ashketchmm@cloud"
+  path "/"
+    br "/main"
+    co "/main"
